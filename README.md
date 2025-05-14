@@ -8,9 +8,11 @@ Use this reference to learn how to format this README: [Markdown on Github](http
 *Make a link to include the four most useful R modules for you*
 
 
-1. [RStudio](modules/07_Command_Line.md)
-2. [RStudio](modules/modules/04_Tidyverse/README.md)
-3. ...
+1. [RStudio](modules/07_Command_Line)
+2. [RStudio](modules/05_GGplot_Visualization)
+3. [RStudio](modules/12_Programming_Basics).
+4. [RStudio](modules/modules/04_Tidyverse)
+5. ...
 
 
 ## Non-R related modules:
