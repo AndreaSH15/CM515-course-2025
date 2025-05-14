@@ -9,9 +9,9 @@ Use this reference to learn how to format this README: [Markdown on Github](http
 
 
 1. [Command-Line](modules/07_Command_Line)
-2. [RStudio](modules/05_GGplot_Visualization)
-3. [RStudio](modules/12_Programming_Basics).
-4. [RStudio](modules/modules/04_Tidyverse)
+2. [GGplot-Visualization](modules/05_GGplot_Visualization)
+3. [Programming-Basics](modules/12_Programming_Basics).
+4. [Tydiverse](modules/modules/04_Tidyverse)
 5. ...
 
 
